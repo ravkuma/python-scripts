@@ -1,3 +1,13 @@
+"""
+
+This is a simple Bubble Sort Program
+
+To run: python bubble_sort.py
+
+Input: Script will take a list of elements as an argument.
+
+"""
+
 def bs(a):
     b=len(a)-1
     for x in range(b):
